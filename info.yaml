@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Design and Functional Verification of Error-Correcting FIFO Buffer with SECDED and ARQ "
-  author:        "Rishi Gowda A, Manjunath , Akshay Urs and Shylashree N, RV College of Engineering, Bengaluru" 
+  author:        "Rishi Gowda A, Manjunath Umesh Kudalagi, Akshay Urs and Shylashree N, RV College of Engineering, Bengaluru" 
   discord:      ""        # optional
   description:  "FSM-based hazard detector with 4-bit FIFO buffering and lightweight SECDED ECC, providing ACK/NACK handshake."
   language:     "Verilog"
